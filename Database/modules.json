@@ -3,13 +3,13 @@
     "_id": "M101",
     "name": "Introduction to Rocket Propulsion",
     "description": "Basic principles of rocket propulsion and rocket engines.",
-    "course": "RS101"
+    "course": "65510e70870c092d5441bc94"
   },
   {
     "_id": "M102",
     "name": "Fuel and Combustion",
     "description": "Understanding rocket fuel, combustion processes, and efficiency.",
-    "course": "RS101"
+    "course": "65510e70870c092d5441bc94"
   },
   {
     "_id": "M103",
