@@ -31,6 +31,7 @@ function CourseRoutes(app) {
         res.send(course);
     });
     app.get("/api/courses", (req, res) => {
+
         const courses = Database.courses;
         res.send(courses);
     });
